@@ -4,11 +4,11 @@ Deploying the ML project
 
 
 ### Software Requirements
-1.Github account
-2.Heroku Account
-3.VScode IDE
-4.GitCLI
+1.[Github account]
+2.[Heroku Account]
+3.[VScode IDE]
+4.[GitCLI]
 
-# Create the New Virtual Environment for the project 
+### Create the New Virtual Environment for the project 
 
 
